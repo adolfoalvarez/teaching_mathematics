@@ -1,0 +1,32 @@
+{
+  "teaching_mathematics.qmd": {
+    "teaching_mathematics.html": "399f0e66",
+    "teaching_mathematics.docx": "34159312",
+    "teaching_mathematics.tex": "6b84b450"
+  },
+  "example.qmd": {
+    "example.docx": "5b838319",
+    "example.tex": "ca3d87b4"
+  },
+  "teaching_mathematics_abstract.qmd": {
+    "teaching_mathematics_abstract.docx": "74682948"
+  },
+  "test.qmd": {
+    "test.html": "632892b7"
+  },
+  "test2.qmd": {
+    "test2.html": "52ce5948"
+  },
+  "test3.qmd": {
+    "test3.html": "9af31630"
+  },
+  "exam_logic.qmd": {
+    "exam_logic.tex": "456d7def"
+  },
+  "aux.qmd": {
+    "aux.html": "a025e0b7"
+  },
+  "beamer_example.qmd": {
+    "beamer_example.tex": "028e8f03"
+  }
+}

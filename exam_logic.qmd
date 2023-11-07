@@ -1,0 +1,41 @@
+---
+title: "Exam logic and set theory"
+author: "Anna Szczepańska-Álvarez"
+format: pdf
+---
+
+1.  Determine which of the following formulae are tautologies, which are contradictory and which are satisfiable
+
+(a) $\neg ((p \wedge \neg p) \to q)$
+
+(b) $\neg p \wedge \neg (p \to q)$
+
+(c) $((p \to q) \to p) \to p$
+
+(d) $(p \lor \neg q) \to \neg (q \wedge \neg p)$
+
+2.  The following statements about sets are false. Give a counterexample to each statement
+
+(a) $A \cup B = A \cup C \to B = C$
+
+(b) $A \subseteq B \cup C \to A \subseteq B \lor A \subseteq C$
+
+3.  Check if the following inference rules are valid.
+
+(a) $\dfrac{p \to q,\ \neg q \lor r,\ \neg r}{\neg p}$
+
+(b) $\dfrac{p \to q,\ p \lor \neg r,\ \neg r}{\neg q \lor r}$
+
+(c) $\dfrac{\neg p \to \neg q,\ q,\ \neg (p \wedge \neg r)}{r}$
+
+(d) $\dfrac{((p \wedge q) \to r),\ \neg (p \to r)}{q \to r}$
+
+4.  Find the truth set of each of these predicates where the domain is the set of integers.
+
+(a) $P(x): x^2 < 3$
+
+(b) $Q(x): x^2 > x$
+
+(c) $R(x): 2x + 1 = 0$
+
+(d) $P(x): x^3 \ge 1$

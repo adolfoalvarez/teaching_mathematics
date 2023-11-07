@@ -1,0 +1,32 @@
+---
+title: "Quarto as a powerful to teach mathematics"
+authors:
+  - name: Anna Szczepańska-Álvarez
+    affiliations:
+      - ref: asa
+    corresponding: true
+    email: anna.szczepanska-alvarez@up.poznan.pl
+  - name: Adolfo Álvarez
+    affiliations:
+      - ref: aa
+
+affiliations:
+  - id: asa
+    name: Poznań University of Life Sciences, Poznań, Poland.
+  - id: aa
+    name: O-I Business Service Center, Poznań, Poland.
+
+filters:
+  - authors-block
+    
+format:
+  #native: default
+  docx: default
+  # pdf:
+  #   keep-tex: true
+editor: visual
+---
+
+Creating teaching materials for mathematics can be a challenge: Support for equations, elegant typesetting, or the possibility to use the same tool for producing slides or articles have been important factors for lecturers preferring to use LaTeX compared to other alternatives. LaTeX is widely used in academia, but it implies to learn a massive set of markup tags and be limited to produce static documents such as .pdf or .ps.
+
+In this talk we wanted to introduce you to Quarto, an authoring tool that allows to write technical documents keeping the mentioned advantages, but using a simpler markup tag language, and allowing lecturers to expand the possible outputs not only to PDF but also HTML, Powerpoint, Word, or other formats. It is also integrated with programming languages such as R, Python, or Julia, which allows an easy way to incorporate calculations and plots that can be automatically generated inside the slides or documents, reducing errors and increasing reproducibility. We will provide several examples of static and interactive outputs for a mathematics lecture.
